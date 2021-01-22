@@ -1,4 +1,4 @@
-import WashCard.WashCardList;
+import washcard.WashCardList;
 import controller.Terminal;
 
 public class Main {

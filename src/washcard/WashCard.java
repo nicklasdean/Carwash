@@ -1,4 +1,4 @@
-package WashCard;
+package washcard;
 
 public class WashCard {
     private int ID;

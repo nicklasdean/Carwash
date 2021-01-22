@@ -1,4 +1,4 @@
-package WashCard;
+package washcard;
 
 import java.util.ArrayList;
 

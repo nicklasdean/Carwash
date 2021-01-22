@@ -1,8 +1,8 @@
 package controller;
 
-import UI.Menu;
-import WashCard.WashCard;
-import WashCard.WashCardList;
+import ui.Menu;
+import washcard.WashCard;
+import washcard.WashCardList;
 import statistics.Counter;
 
 import java.time.DayOfWeek;
